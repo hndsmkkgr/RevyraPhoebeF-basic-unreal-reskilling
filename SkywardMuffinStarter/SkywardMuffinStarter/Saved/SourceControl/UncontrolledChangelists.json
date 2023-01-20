@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/BP_Muffin.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Blueprints/Animation/ABP_Muffin.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/Animations/BS_IdleWalk.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Skeleton.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/Animations/SK_Muffin_Death.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/Animations/SK_Muffin_Fall.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/Animations/SK_Muffin_Idle.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/Animations/SK_Muffin_Jump.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinStarter/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/Animations/SK_Muffin_Walk.uasset"
+			]
+		}
+	]
+}
