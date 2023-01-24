@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Player.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SpaceshipBattleStarter/Content/SpaceshipBattle/Materials/M_Particle.uasset"
+			]
+		}
+	]
+}
