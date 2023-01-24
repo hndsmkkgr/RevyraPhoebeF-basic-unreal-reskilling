@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Music.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinAudioStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Walk.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Pop_Cue.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinAudioStarter/Content/SkywardMuffin/Blueprints/BP_Cloud.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Rain.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Pop.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Footstep.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinAudioStarter/Content/SkywardMuffin/Maps/TutorialMap.umap",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Effects_Class.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Music_Class.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinAudioStarter/Content/SkywardMuffin/UI/WBP_Options.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SkywardMuffinAudioStarter/Content/SkywardMuffin/Audio/S_Volume_Mix.uasset"
+			]
+		}
+	]
+}
