@@ -7,7 +7,9 @@
 			"files": [
 				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset",
 				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Player.uasset",
-				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SpaceshipBattleStarter/Content/SpaceshipBattle/Materials/M_Particle.uasset"
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SpaceshipBattleStarter/Content/SpaceshipBattle/Materials/M_Particle.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Explosion.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Enemy.uasset"
 			]
 		}
 	]
