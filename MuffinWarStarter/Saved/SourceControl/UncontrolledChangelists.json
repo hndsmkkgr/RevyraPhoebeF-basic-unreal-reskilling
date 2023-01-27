@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/MuffinWarStarter/Content/MuffinWar/Characters/Muffin/Blueprints/BP_Muffin.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/MuffinWarStarter/Content/MuffinWar/Characters/Muffin/AI/BT_Muffin.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/MuffinWarStarter/Content/MuffinWar/Characters/Muffin/AI/BB_Muffin.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/MuffinWarStarter/Content/MuffinWar/Characters/Muffin/AI/BTService_SetRandomLocation.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/MuffinWarStarter/Content/MuffinWar/Characters/Muffin/AI/AIC_Muffin.uasset",
+				"C:/Users/Agate Crew/Unreal Projects/UnrealTraining/MuffinWarStarter/Content/MuffinWar/Characters/Muffin/AI/BTTask_Attack.uasset"
+			]
+		}
+	]
+}
