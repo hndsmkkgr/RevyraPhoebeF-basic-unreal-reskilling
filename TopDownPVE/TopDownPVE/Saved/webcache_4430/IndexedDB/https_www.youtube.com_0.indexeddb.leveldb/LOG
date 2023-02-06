@@ -1,0 +1,6 @@
+2023/02/06-10:55:05.925 6398 Creating DB C:/Users/Agate Crew/Unreal Projects/UnrealTraining/TopDownPVE/TopDownPVE/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/02/06-10:55:05.935 6398 Reusing MANIFEST C:/Users/Agate Crew/Unreal Projects/UnrealTraining/TopDownPVE/TopDownPVE/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/06-11:35:05.000 6398 Level-0 table #5: started
+2023/02/06-11:35:05.003 6398 Level-0 table #5: 9991 bytes OK
+2023/02/06-11:35:05.004 6398 Delete type=0 #3
+2023/02/06-11:35:05.005 6398 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
