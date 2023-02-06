@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TopDownPVE",
+			"Path": "C:\\Users\\Agate Crew\\Unreal Projects\\UnrealTraining\\TopDownPVE\\TopDownPVE\\Source\\TopDownPVE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TopDownPVEEditor",
+			"Path": "C:\\Users\\Agate Crew\\Unreal Projects\\UnrealTraining\\TopDownPVE\\TopDownPVE\\Source\\TopDownPVEEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

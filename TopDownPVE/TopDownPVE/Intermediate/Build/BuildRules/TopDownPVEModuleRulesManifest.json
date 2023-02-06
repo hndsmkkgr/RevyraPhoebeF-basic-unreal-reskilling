@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Agate Crew\\Unreal Projects\\UnrealTraining\\TopDownPVE\\TopDownPVE\\Source\\TopDownPVE\\TopDownPVE.Build.cs",
+		"C:\\Users\\Agate Crew\\Unreal Projects\\UnrealTraining\\TopDownPVE\\TopDownPVE\\Source\\TopDownPVE.Target.cs",
+		"C:\\Users\\Agate Crew\\Unreal Projects\\UnrealTraining\\TopDownPVE\\TopDownPVE\\Source\\TopDownPVEEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}
