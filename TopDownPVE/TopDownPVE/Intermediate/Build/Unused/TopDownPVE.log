@@ -1,9 +1,10 @@
 ﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" TopDownPVEEditor Win64 Development -Project="C:\Users\Agate Crew\Unreal Projects\UnrealTraining\TopDownPVE\TopDownPVE\TopDownPVE.uproject" -WaitMutex -FromMsBuild
   Log file: C:\Users\Agate Crew\AppData\Local\UnrealBuildTool\Log.txt
-  Creating makefile for TopDownPVEEditor (no existing makefile)
+  Invalidating makefile for TopDownPVEEditor (working set of source files changed)
   Parsing headers for TopDownPVEEditor
     Running Internal UnrealHeaderTool "C:\Users\Agate Crew\Unreal Projects\UnrealTraining\TopDownPVE\TopDownPVE\TopDownPVE.uproject" "C:\Users\Agate Crew\Unreal Projects\UnrealTraining\TopDownPVE\TopDownPVE\Intermediate\Build\Win64\TopDownPVEEditor\Development\TopDownPVEEditor.uhtmanifest" -WarningsAsErrors -installed
-  Total of 4 written
-  Reflection code generated for TopDownPVEEditor in 1.4140875 seconds
-  Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
+C:\Users\Agate Crew\Unreal Projects\UnrealTraining\TopDownPVE\TopDownPVE\Source\TopDownPVE\Public\Character\PveCharacter.h(1): error : #include found after .generated.h file - the .generated.h file should always be the last #include in a header
+C:\Users\Agate Crew\Unreal Projects\UnrealTraining\TopDownPVE\TopDownPVE\Source\TopDownPVE\Public\Character\PveCharacter.h(1): error : #include found after .generated.h file - the .generated.h file should always be the last #include in a header
+C:\Users\Agate Crew\Unreal Projects\UnrealTraining\TopDownPVE\TopDownPVE\Source\TopDownPVE\Public\Character\PveCharacter.h(13): error : Unable to parse delegate declaration; expected 'DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam' but found 'DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParams'.
+  Total of 0 written
 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_5.1\Engine\Build\BatchFiles\Build.bat" TopDownPVEEditor Win64 Development -Project="C:\Users\Agate Crew\Unreal Projects\UnrealTraining\TopDownPVE\TopDownPVE\TopDownPVE.uproject" -WaitMutex -FromMsBuild" exited with code 6.

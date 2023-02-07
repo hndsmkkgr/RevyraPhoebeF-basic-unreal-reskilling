@@ -45,12 +45,6 @@
     <Filter Include="Source\TopDownPVE">
       <UniqueIdentifier>{ADD5B542-76E1-361A-9B48-07EA51DB77B4}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\TopDownPVE\PveAssetManager.cpp">
-      <Filter>Source\TopDownPVE</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\TopDownPVE\PveAssetManager.h">
-      <Filter>Source\TopDownPVE</Filter>
-    </ClInclude>
     <None Include="..\..\Source\TopDownPVE\TopDownPVE.Build.cs">
       <Filter>Source\TopDownPVE</Filter>
     </None>
@@ -59,6 +53,54 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\TopDownPVE\TopDownPVE.h">
       <Filter>Source\TopDownPVE</Filter>
+    </ClInclude>
+    <Filter Include="Source\TopDownPVE\Private">
+      <UniqueIdentifier>{FCB14408-C986-3D97-8B1F-C40CFF2A451A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TopDownPVE\Private\PveAssetManager.cpp">
+      <Filter>Source\TopDownPVE\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\TopDownPVE\Private\Character">
+      <UniqueIdentifier>{EEB027A8-02AE-3BF4-9E36-419108B57D58}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TopDownPVE\Private\Character\PveCharacter.cpp">
+      <Filter>Source\TopDownPVE\Private\Character</Filter>
+    </ClCompile>
+    <Filter Include="Source\TopDownPVE\Private\Character\Abilities">
+      <UniqueIdentifier>{50FCEFA5-F694-3099-BD24-357CEF453B89}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TopDownPVE\Private\Character\Abilities\CharacterAbilitySystemComponent.cpp">
+      <Filter>Source\TopDownPVE\Private\Character\Abilities</Filter>
+    </ClCompile>
+    <Filter Include="Source\TopDownPVE\Private\Character\Abilities\AttributeSets">
+      <UniqueIdentifier>{98A61DCF-5175-3147-AAEC-8B0A3DE50800}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TopDownPVE\Private\Character\Abilities\AttributeSets\PveAttributeSet.cpp">
+      <Filter>Source\TopDownPVE\Private\Character\Abilities\AttributeSets</Filter>
+    </ClCompile>
+    <Filter Include="Source\TopDownPVE\Public">
+      <UniqueIdentifier>{ABB5CBD6-8976-3140-B431-0386AD100888}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TopDownPVE\Public\PveAssetManager.h">
+      <Filter>Source\TopDownPVE\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\TopDownPVE\Public\Character">
+      <UniqueIdentifier>{32517FB7-CC55-3441-BA6D-54509AA7335D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TopDownPVE\Public\Character\PveCharacter.h">
+      <Filter>Source\TopDownPVE\Public\Character</Filter>
+    </ClInclude>
+    <Filter Include="Source\TopDownPVE\Public\Character\Abilities">
+      <UniqueIdentifier>{2611C9BA-E72F-3A22-A2F8-A30BB588D995}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TopDownPVE\Public\Character\Abilities\CharacterAbilitySystemComponent.h">
+      <Filter>Source\TopDownPVE\Public\Character\Abilities</Filter>
+    </ClInclude>
+    <Filter Include="Source\TopDownPVE\Public\Character\Abilities\AttributeSets">
+      <UniqueIdentifier>{5B7AE9EC-9388-3C36-B083-95771BBA5DD4}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TopDownPVE\Public\Character\Abilities\AttributeSets\PveAttributeSet.h">
+      <Filter>Source\TopDownPVE\Public\Character\Abilities\AttributeSets</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

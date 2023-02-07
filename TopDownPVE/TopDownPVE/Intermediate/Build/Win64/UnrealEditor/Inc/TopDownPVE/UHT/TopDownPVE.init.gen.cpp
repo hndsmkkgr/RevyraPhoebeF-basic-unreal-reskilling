@@ -7,23 +7,27 @@
 #include "UObject/GeneratedCppIncludes.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeTopDownPVE_init() {}
+	TOPDOWNPVE_API UFunction* Z_Construct_UDelegateFunction_TopDownPVE_ReceivedDamageDelegate__DelegateSignature();
 	static FPackageRegistrationInfo Z_Registration_Info_UPackage__Script_TopDownPVE;
 	FORCENOINLINE UPackage* Z_Construct_UPackage__Script_TopDownPVE()
 	{
 		if (!Z_Registration_Info_UPackage__Script_TopDownPVE.OuterSingleton)
 		{
+			static UObject* (*const SingletonFuncArray[])() = {
+				(UObject* (*)())Z_Construct_UDelegateFunction_TopDownPVE_ReceivedDamageDelegate__DelegateSignature,
+			};
 			static const UECodeGen_Private::FPackageParams PackageParams = {
 				"/Script/TopDownPVE",
-				nullptr,
-				0,
+				SingletonFuncArray,
+				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x8535072D,
-				0xF6311CAF,
+				0x905C175B,
+				0x3874816B,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_TopDownPVE.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_TopDownPVE.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_TopDownPVE(Z_Construct_UPackage__Script_TopDownPVE, TEXT("/Script/TopDownPVE"), Z_Registration_Info_UPackage__Script_TopDownPVE, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x8535072D, 0xF6311CAF));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_TopDownPVE(Z_Construct_UPackage__Script_TopDownPVE, TEXT("/Script/TopDownPVE"), Z_Registration_Info_UPackage__Script_TopDownPVE, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x905C175B, 0x3874816B));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

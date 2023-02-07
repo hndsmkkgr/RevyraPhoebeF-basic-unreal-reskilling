@@ -1,5 +1,6 @@
 "C:\Users\Agate Crew\Unreal Projects\UnrealTraining\TopDownPVE\TopDownPVE\Intermediate\Build\Win64\UnrealEditor\Inc\TopDownPVE\UHT\PveAssetManager.gen.cpp"
 /I .
+/I "C:\Users\Agate Crew\Unreal Projects\UnrealTraining\TopDownPVE\TopDownPVE\Source\TopDownPVE\Private"
 /I ..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayAbilities\UHT
 /I ..\Plugins\Runtime\GameplayAbilities\Source
 /I ..\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public
@@ -277,6 +278,7 @@
 /I ..\Plugins\Runtime\DataRegistry\Source\DataRegistry\Public
 /I "C:\Users\Agate Crew\Unreal Projects\UnrealTraining\TopDownPVE\TopDownPVE\Intermediate\Build\Win64\UnrealEditor\Inc\TopDownPVE\UHT"
 /I "C:\Users\Agate Crew\Unreal Projects\UnrealTraining\TopDownPVE\TopDownPVE\Source"
+/I "C:\Users\Agate Crew\Unreal Projects\UnrealTraining\TopDownPVE\TopDownPVE\Source\TopDownPVE\Public"
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64

@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\agate crew\\unreal projects\\unrealtraining\\topdownpve\\topdownpve\\source\\topdownpve\\private\\character\\abilities\\attributesets\\pveattributeset.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\agate crew\\unreal projects\\unrealtraining\\topdownpve\\topdownpve\\intermediate\\build\\win64\\topdownpveeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\agate crew\\unreal projects\\unrealtraining\\topdownpve\\topdownpve\\intermediate\\build\\win64\\unrealeditor\\development\\topdownpve\\definitions.topdownpve.h",
+            "c:\\users\\agate crew\\unreal projects\\unrealtraining\\topdownpve\\topdownpve\\source\\topdownpve\\public\\character\\abilities\\attributesets\\pveattributeset.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\runtime\\gameplayabilities\\source\\gameplayabilities\\public\\attributeset.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\datatable.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\attributeset.generated.h",
+            "c:\\users\\agate crew\\unreal projects\\unrealtraining\\topdownpve\\topdownpve\\intermediate\\build\\win64\\unrealeditor\\inc\\topdownpve\\uht\\pveattributeset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

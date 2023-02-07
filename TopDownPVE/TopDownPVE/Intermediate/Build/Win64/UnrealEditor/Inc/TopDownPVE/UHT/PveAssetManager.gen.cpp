@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "TopDownPVE/PveAssetManager.h"
+#include "TopDownPVE/Public/PveAssetManager.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodePveAssetManager() {}
 // Cross Module References
@@ -39,7 +39,7 @@ void EmptyLinkFunctionForGeneratedCodePveAssetManager() {}
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UPveAssetManager_Statics::Class_MetaDataParams[] = {
 		{ "Comment", "/**\n * \n */" },
 		{ "IncludePath", "PveAssetManager.h" },
-		{ "ModuleRelativePath", "PveAssetManager.h" },
+		{ "ModuleRelativePath", "Public/PveAssetManager.h" },
 	};
 #endif
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UPveAssetManager_Statics::StaticCppClassTypeInfo = {
@@ -74,15 +74,15 @@ void EmptyLinkFunctionForGeneratedCodePveAssetManager() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UPveAssetManager);
 	UPveAssetManager::~UPveAssetManager() {}
-	struct Z_CompiledInDeferFile_FID_Users_Agate_Crew_Unreal_Projects_UnrealTraining_TopDownPVE_TopDownPVE_Source_TopDownPVE_PveAssetManager_h_Statics
+	struct Z_CompiledInDeferFile_FID_Users_Agate_Crew_Unreal_Projects_UnrealTraining_TopDownPVE_TopDownPVE_Source_TopDownPVE_Public_PveAssetManager_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Agate_Crew_Unreal_Projects_UnrealTraining_TopDownPVE_TopDownPVE_Source_TopDownPVE_PveAssetManager_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UPveAssetManager, UPveAssetManager::StaticClass, TEXT("UPveAssetManager"), &Z_Registration_Info_UClass_UPveAssetManager, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UPveAssetManager), 1859624143U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Agate_Crew_Unreal_Projects_UnrealTraining_TopDownPVE_TopDownPVE_Source_TopDownPVE_Public_PveAssetManager_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_UPveAssetManager, UPveAssetManager::StaticClass, TEXT("UPveAssetManager"), &Z_Registration_Info_UClass_UPveAssetManager, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UPveAssetManager), 1068956765U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Agate_Crew_Unreal_Projects_UnrealTraining_TopDownPVE_TopDownPVE_Source_TopDownPVE_PveAssetManager_h_1332304654(TEXT("/Script/TopDownPVE"),
-		Z_CompiledInDeferFile_FID_Users_Agate_Crew_Unreal_Projects_UnrealTraining_TopDownPVE_TopDownPVE_Source_TopDownPVE_PveAssetManager_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Agate_Crew_Unreal_Projects_UnrealTraining_TopDownPVE_TopDownPVE_Source_TopDownPVE_PveAssetManager_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Agate_Crew_Unreal_Projects_UnrealTraining_TopDownPVE_TopDownPVE_Source_TopDownPVE_Public_PveAssetManager_h_4151526025(TEXT("/Script/TopDownPVE"),
+		Z_CompiledInDeferFile_FID_Users_Agate_Crew_Unreal_Projects_UnrealTraining_TopDownPVE_TopDownPVE_Source_TopDownPVE_Public_PveAssetManager_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Agate_Crew_Unreal_Projects_UnrealTraining_TopDownPVE_TopDownPVE_Source_TopDownPVE_Public_PveAssetManager_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

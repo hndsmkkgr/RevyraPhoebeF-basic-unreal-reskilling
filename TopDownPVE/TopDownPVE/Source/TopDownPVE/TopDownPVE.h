@@ -4,3 +4,11 @@
 
 #include "CoreMinimal.h"
 
+UENUM(BlueprintType)
+enum class PveAbilityID : uint8
+{
+	None UMETA(DisplayName = "None"),
+	Confirm UMETA(DisplayName = "Confirm"),
+	Cancel UMETA(DisplayName = "Cancel")
+	//bisa nama skill jg di sini
+};
